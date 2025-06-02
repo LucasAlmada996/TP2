@@ -1,2 +1,3 @@
 n=int(input("Hola: "))
-print(n)
+for i in range(20)
+  print(n)
